@@ -8,7 +8,6 @@ TO-DO
  - fix story
  - style
  - link API
- - pets / team / villian come back as undefined.
 
 *************************************************
 
